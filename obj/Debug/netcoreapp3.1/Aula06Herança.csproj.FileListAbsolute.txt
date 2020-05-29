@@ -1,0 +1,13 @@
+C:\Users\NdL\Desktop\Aula06Herança\bin\Debug\netcoreapp3.1\Aula06Herança.exe
+C:\Users\NdL\Desktop\Aula06Herança\bin\Debug\netcoreapp3.1\Aula06Herança.deps.json
+C:\Users\NdL\Desktop\Aula06Herança\bin\Debug\netcoreapp3.1\Aula06Herança.runtimeconfig.json
+C:\Users\NdL\Desktop\Aula06Herança\bin\Debug\netcoreapp3.1\Aula06Herança.runtimeconfig.dev.json
+C:\Users\NdL\Desktop\Aula06Herança\bin\Debug\netcoreapp3.1\Aula06Herança.dll
+C:\Users\NdL\Desktop\Aula06Herança\bin\Debug\netcoreapp3.1\Aula06Herança.pdb
+C:\Users\NdL\Desktop\Aula06Herança\obj\Debug\netcoreapp3.1\Aula06Herança.csprojAssemblyReference.cache
+C:\Users\NdL\Desktop\Aula06Herança\obj\Debug\netcoreapp3.1\Aula06Herança.AssemblyInfoInputs.cache
+C:\Users\NdL\Desktop\Aula06Herança\obj\Debug\netcoreapp3.1\Aula06Herança.AssemblyInfo.cs
+C:\Users\NdL\Desktop\Aula06Herança\obj\Debug\netcoreapp3.1\Aula06Herança.csproj.CoreCompileInputs.cache
+C:\Users\NdL\Desktop\Aula06Herança\obj\Debug\netcoreapp3.1\Aula06Herança.dll
+C:\Users\NdL\Desktop\Aula06Herança\obj\Debug\netcoreapp3.1\Aula06Herança.pdb
+C:\Users\NdL\Desktop\Aula06Herança\obj\Debug\netcoreapp3.1\Aula06Herança.genruntimeconfig.cache
